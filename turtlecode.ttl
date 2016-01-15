@@ -1,4 +1,4 @@
-@prefix toySMC: <https://github.com/capaisie/BIME550project1.git#> .
+@prefix toySMC: <https://github.com/capaisie/BIME550project1/blob/master/turtlecode.ttl#> .
 
 # triple structure is (subject, predicate, object)
 # object should be in quotes
